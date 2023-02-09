@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Projects/CleanArchitectureTemplate/ValidationHelper/ValidationHelper/ValidationHelper.csproj",
+      "projectUniqueName": "/Users/macbook/Projects/ValidationHelper/ValidationHelper/ValidationHelper/ValidationHelper.csproj",
       "projectName": "ValidationHelper",
-      "projectPath": "/Users/macbook/Projects/CleanArchitectureTemplate/ValidationHelper/ValidationHelper/ValidationHelper.csproj",
+      "projectPath": "/Users/macbook/Projects/ValidationHelper/ValidationHelper/ValidationHelper/ValidationHelper.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Projects/CleanArchitectureTemplate/ValidationHelper/ValidationHelper/obj/",
+      "outputPath": "/Users/macbook/Projects/ValidationHelper/ValidationHelper/ValidationHelper/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"
